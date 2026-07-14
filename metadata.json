@@ -1,0 +1,6 @@
+{
+  "name": "HDI Predictor Playground",
+  "description": "An interactive Full-Stack Data Science playground and Scikit-Learn/Flask simulator for predicting Human Development Index (HDI) scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
